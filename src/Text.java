@@ -10,7 +10,7 @@ public class Text {
 		InputStream is = null;
 		OutputStream os = null;
 		DataInputStream dis = null;
-
+		int i=0;
 	}
 
 }
