@@ -11,6 +11,9 @@ public class Text {
 		OutputStream os = null;
 		DataInputStream dis = null;
 		int i=0;
+		
+		int y = 0;
+		int x = 0;
 		//intmlfjklfjoferflfkokodfm p
 		//fnijisda;
 	}
