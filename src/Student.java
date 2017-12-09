@@ -3,7 +3,7 @@ package exer09_1._08_comparable;
 public class Student implements Comparable<Student> {
 	int studentID = 0;
 	String name;
-	int chi = 1;
+	int chi = 0;
 	int eng = 0;
 	int math = 0;
 
